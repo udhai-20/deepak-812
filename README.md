@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-812&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-812" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-812" alt="deepak-812" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/deepaks46609203" target="blank"><img src="https://img.shields.io/twitter/follow/deepaks46609203?logo=twitter&style=for-the-badge" alt="deepaks46609203" /></a> </p>
 
 - 🔭 I’m currently working on **DSA**
