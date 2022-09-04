@@ -1,148 +1,52 @@
-<div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
+# <p align="center">Hi 👋, I'm [Deepak Sharma](https://github.com/deepak-812/)</p>
 
-  <a href="https://profile-readme-generator.com">Demo</a>
-</div>
+<p align="center">love to exploring new tech stacks 🚀 and building some projects to create a positive impact on people's life.</p>
 
-<div align="center">
-  <h1>Profile Readme Generator</h1>
-  <h3>The best profile readme generator you will find!</h3>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-812&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-812" /> </p>
 
-<p align="center">
-  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
-  </a>
+<p align="left"> <a href="https://twitter.com/deepaks46609203" target="blank"><img src="https://img.shields.io/twitter/follow/deepaks46609203?logo=twitter&style=for-the-badge" alt="deepaks46609203" /></a> </p>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
-  </a>
+- 🔭 I’m currently working on **DSA**
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
-  </a>
+- 🌱 I’m currently learning **Python**
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
-  </a>
+- 👨🏽‍🤝‍👨🏼 I’m looking to collaborate on **FAANG Companies**
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
-  </a>
+- 👨‍💻 All of my projects are available at [https://deeepak-sharma.netlify.app/](https://deeepak-sharma.netlify.app/)
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
-  </a>
+- 📫 How to reach me **deepakksharma.812@gmail.com**
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/deepaks46609203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepaks46609203" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepcode" height="30" width="40" /></a>
+<a href="https://instagram.com/deepaksharma_812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepaksharma_812" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/deepak812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak812" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/deepak812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepak812" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/thedeepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thedeepak" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-812&show_icons=true&locale=en&layout=compact" alt="deepak-812" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-812&show_icons=true&locale=en" alt="deepak-812" /></p>
+
+
+## LeetCode Solved Problems
+
+<p float="left">
+  <img src="https://leetcard.jacoblin.cool/deepak812?theme=dark&font=Adamina" width="418" />
 </p>
 
-## :dart: About ##
-
-Tired of editing your github profile? Looking for some **cool readme** to do a `ctrl+c ctrl+v`? Or are you tired of missing out on the **amazing features** you can add to your readme? What about configuring github actions? 😩 **Come on!**
-
-Beautify your github profile with this amazing tool, creating the readme your way in a simple and fast way! Include what you want, place it wherever you want, however you want! (<i>But of course, respecting the limits of what is possible to do in markdown</i> 😁)
-
-
-<p align="center">
-  <i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating</a> 💸 to help it improve!</i>
+## 📈 GitHub Stats
+<p float="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-812&theme=dark&font=Adamina" width="422" />
 </p>
 
-https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
+![Daily Activity](https://activity-graph.herokuapp.com/graph?username=deepak-812&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
 
-## :rocket: Main Technologies ##
+## 👀 Visitors count
 
-<a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://styled-components.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://eslint.org">
-  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
-</a>
-
-###
-
-<details>
-  <summary>See more</summary>
-
-  ###
-
-  * [Styled Icons (Feather Icons)](https://styled-icons.js.org)
-  * [Styled Media Query](https://github.com/morajabi/styled-media-query)
-  * [Framer Motion](https://framer.com/motion/)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [Prismjs](https://prismjs.com)
-  * [UUID](https://www.npmjs.com/package/uuid)
-
-</details>
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
-
-# Access
-$ cd profile-readme-generator
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn dev
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :video_game: Scripts
-
-- `dev`: starts the application at `localhost:3000`
-- `build`: creates an optimized production build of application
-- `start`: starts the application in production mode at `localhost:3000` (have run the build before)
-- `test`: run the tests
-- `lint`: run eslint in /src
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
-
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+<img src="https://profile-counter.glitch.me/deepak-812/count.svg" />
