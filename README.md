@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm [Deepak Sharma](https://github.com/deepak-812/)</h1>
-<h3 align="center">love to exploring new tech stacks 🚀 and building some projects to create a positive impact on people's life.</h3>
+# <p align="center">Hi 👋, I'm [Deepak Sharma](https://github.com/deepak-812/)</p>
+
+<p align="center">love to exploring new tech stacks 🚀 and building some projects to create a positive impact on people's life.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-812&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-812" /> </p>
 
@@ -48,5 +49,6 @@
 
 ![Daily Activity](https://activity-graph.herokuapp.com/graph?username=deepak-812&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
 
+## 👀 Visitors count
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-812&" alt="deepak-812" /></p>
+<img src="https://profile-counter.glitch.me/deepak-812/count.svg" />
