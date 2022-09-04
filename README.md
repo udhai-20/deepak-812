@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on **DSA**
 
 - 🎯 Goals: earn in dollar 💰 & learn from all experienced people's experience ❄ and speak english 🚀
-- 
-- 🎲 And ... i play 🎸 guitar and ♟ chess online
+
+- 🎲 And ... i play ♟ chess online
 
 - 👨🏽‍🤝‍👨🏼 I’m looking to collaborate on **FAANG Companies**
 
