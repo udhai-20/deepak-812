@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🎯 Goals: earn in dollar 💰 / live in a cold place ❄ and speak english 🚀
+- 🎯 Goals: earn in dollar 💰 & learn from all experienced people's experience ❄ and speak english 🚀
 - 
 - 🎲 And ... i play 🎸 guitar and ♟ chess online
 
 - 👨🏽‍🤝‍👨🏼 I’m looking to collaborate on **FAANG Companies**
-
-- 👨‍💻 All of my projects are available at [https://deeepak-sharma.netlify.app/](https://deeepak-sharma.netlify.app/)
 
 - 📫 How to reach me **deepakksharma.812@gmail.com**
 
