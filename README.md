@@ -32,9 +32,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-812&show_icons=true&locale=en&layout=compact" alt="deepak-812" /></p>
 
 
-<p align="left"></p>
-## LeetCode Solved Problems
+<p align="left">
 
+LeetCode Solved Problems
+
+</p>  
+  
 <p float="left">
   <img src="https://leetcard.jacoblin.cool/deepak812?theme=dark&font=Adamina" width="418" />
 </p>
