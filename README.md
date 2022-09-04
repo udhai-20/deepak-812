@@ -31,9 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-812&show_icons=true&locale=en&layout=compact" alt="deepak-812" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-812&show_icons=true&locale=en" alt="deepak-812" /></p>
-
-
 ## LeetCode Solved Problems
 
 <p float="left">
