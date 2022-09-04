@@ -1,4 +1,4 @@
-# <p align="center">Hi 👋, I'm [Deepak Sharma](https://github.com/deepak-812/)</p>
+# <p align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I'm [Deepak Sharma](https://github.com/deepak-812/)</p>
 
 <p align="center">love to exploring new tech stacks 🚀 and building some projects to create a positive impact on people's life.</p>
 
