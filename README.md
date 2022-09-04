@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Python**
+- 🎯 Goals: earn in dollar 💰 / live in a cold place ❄ and speak english 🚀
+- 
+- 🎲 And ... i play 🎸 guitar and ♟ chess online
 
 - 👨🏽‍🤝‍👨🏼 I’m looking to collaborate on **FAANG Companies**
 
