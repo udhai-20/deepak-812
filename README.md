@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/deepaks46609203" target="blank"><img src="https://img.shields.io/twitter/follow/deepaks46609203?logo=twitter&style=for-the-badge" alt="deepaks46609203" /></a> </p>
 
+## 😃 Talking about Personal Stuffs
+
 - 🔭 I’m currently working on **DSA**
 
 - 🎯 Goals: earn in dollar 💰 & learn in Computer science as much as i can learn ❄ and speak english 🚀
@@ -16,7 +18,7 @@
 
 - 📫 How to reach me **deepakksharma.812@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://cdn.iconscout.com/icon/free/png-256/connection-nodes-communication-network-seo-social-community-relation-23379.png" width="50"> Connect with me
 <p align="left">
 <a href="https://twitter.com/deepaks46609203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepaks46609203" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepcode" height="30" width="40" /></a>
@@ -26,14 +28,15 @@
 <a href="https://auth.geeksforgeeks.org/user/thedeepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thedeepak" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 👨‍💻 Languages and Tools
+<hr width="0">
 <kbd><p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p></kbd>
 <br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-812&show_icons=true&locale=en&layout=compact" alt="deepak-812" /></p>
 
 
-## LeetCode Solved Problems
+## <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" width="40"> LeetCode Solved Problems
   
 <p float="left">
   <img src="https://leetcard.jacoblin.cool/deepak812?theme=dark&font=Adamina" width="418" />
