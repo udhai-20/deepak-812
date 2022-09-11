@@ -52,3 +52,7 @@
 ## 👀 Visitors count
 
 <img src="https://profile-counter.glitch.me/deepak-812/count.svg" />
+
+<p align="center">
+<img src="https://media2.giphy.com/media/VObHs6oqEWFNe/giphy.gif?cid=790b761167bbbf64202e4bf0dd9747db8e3d0cebcfaf9761&amp;rid=giphy.gif&amp" width="400"></p>
+
