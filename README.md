@@ -42,10 +42,11 @@
 </p>
 
 ## 📈 GitHub Stats
-
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-812&show_icons=true&locale=en" alt="deepak-812" width="300"/>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-812&theme=dark&font=Adamina" width="300" />
-
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-812&theme=dark&font=Adamina" width="300" />
+</p>
+<br>
 
 ![Daily Activity](https://activity-graph.herokuapp.com/graph?username=deepak-812&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
 
