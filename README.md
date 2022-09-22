@@ -43,8 +43,8 @@
 
 ## 📈 GitHub Stats
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-812&show_icons=true&locale=en" alt="deepak-812" width="300"/>
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-812&theme=dark&font=Adamina" width="300" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-812&show_icons=true&locale=en" alt="deepak-812" width="330"/>
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-812&theme=dark&font=Adamina" width="320"/>
 </p>
 <br>
 
