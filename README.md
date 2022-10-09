@@ -16,7 +16,7 @@
 
 - 👨🏽‍🤝‍👨🏼 I’m looking to collaborate on **FAANG Companies**
 
-- 📫 How to reach me **deepak812201@gmail.com**
+- 📫 How to reach me **deepakksharma.812@gmail.com**
 
 ## <img src="https://cdn.iconscout.com/icon/free/png-256/connection-nodes-communication-network-seo-social-community-relation-23379.png" width="40"> Connect with me
 <p align="left">
