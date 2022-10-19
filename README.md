@@ -35,7 +35,7 @@
 <h3 align="left"> LeetCode Solved Problems : </h3>
   
 <p float="left">
-  <img src="https://leetcard.jacoblin.cool/deepak812?theme=dark&font=Adamina&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="418" />
+  <kbd><img src="https://leetcard.jacoblin.cool/deepak812?theme=dark&font=Adamina&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="418" /></kbd>
 </p>
 
 <table>
