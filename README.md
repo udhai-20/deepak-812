@@ -51,18 +51,12 @@
 
 <p><kbd><img align="center" src="https://activity-graph.herokuapp.com/graph?username=deepak-812&theme=react-dark" alt="yaduttam95" /></kbd></p>
 
-## 👀 Visitors count
-
-<img src="https://profile-counter.glitch.me/deepak-812/count.svg" />
-
-
-
-<!-- [![Sparkline](https://stars.medv.io/Yaduttam95/Yaduttam95.svg)](https://stars.medv.io/Yaduttam95/Yaduttam95)
-<div align="center">
-<img align="center" src="https://readme-jokes.vercel.app/api?theme=vue?" alt="yaduttam95" />
-</div>
--->
 ## Contribution Heat map with eating-snake animation
 <kbd>
 <img src="https://raw.githubusercontent.com/deepak-812/deepak-812/output/github-contribution-grid-snake.svg" />
 </kbd>
+
+
+## 👀 Visitors count
+
+<img src="https://profile-counter.glitch.me/deepak-812/count.svg" />
