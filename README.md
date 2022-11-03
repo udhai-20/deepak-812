@@ -62,5 +62,6 @@
 <img align="center" src="https://readme-jokes.vercel.app/api?theme=vue?" alt="yaduttam95" />
 </div>
 -->
-
+## Contribution Heat map with eating-snake animation
+![snake gif](https://github.com/deepak-812/deepak-812/blob/output/github-contribution-grid-snake.gif)
 
