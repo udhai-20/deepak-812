@@ -63,5 +63,4 @@
 </div>
 -->
 ## Contribution Heat map with eating-snake animation
-![snake gif](https://github.com/deepak-812/deepak-812/blob/output/github-contribution-grid-snake.gif)
-
+<img src="https://raw.githubusercontent.com/deepak-812/deepak-812/output/github-contribution-grid-snake.svg" />
