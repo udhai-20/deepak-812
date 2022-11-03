@@ -51,7 +51,7 @@
 
 <p><kbd><img align="center" src="https://activity-graph.herokuapp.com/graph?username=deepak-812&theme=react-dark" alt="yaduttam95" /></kbd></p>
 
-## Contribution Heat map with eating-snake animation
+## Contribution Heat map
 <kbd>
 <img src="https://raw.githubusercontent.com/deepak-812/deepak-812/output/github-contribution-grid-snake.svg" />
 </kbd>
